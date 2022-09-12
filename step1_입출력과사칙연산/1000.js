@@ -7,7 +7,7 @@
 // 출력
 // 첫째 줄에 A+B를 출력한다.
 
-let fs1 = require('fs');
+let fs = require('fs');
 let input = fs.readFileSync('/dev/stdin').toString().split('\n');
 
 
